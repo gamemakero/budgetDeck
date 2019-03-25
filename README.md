@@ -1,7 +1,7 @@
 # Budget Deck
 Like the elgato streamdeck but cheaper, and worse.
 
-Schematics are still in progress.
+Schematics are still in progress, but the main components are an arduino pro micro, a SPI OLED 1 inch screen and 6 bootleg cherry mx red switches.
 
 Right now, it works fine but there are changes that have to be made in order to improve.
 My main goal is to rework completely the script getting rid of the keyboard library and using serial instead.
