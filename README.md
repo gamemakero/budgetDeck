@@ -1,2 +1,2 @@
-# budgetDeck
-Like the streamdeck but very cheap, and worse.
+# Budget Deck
+Like the elgato streamdeck but cheaper, and worse.
